@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/mern-task-tracker-app/node_modules
+/mern-task-tracker-app/.pnp
+/mern-task-tracker-app/.pnp.js
+
+# testing
+/mern-task-tracker-app/coverage
+
+# production
+/mern-task-tracker-app/build
+
+# misc
+/mern-task-tracker-app/.DS_Store
+/mern-task-tracker-app/.env.local
+/mern-task-tracker-app/.env.development.local
+/mern-task-tracker-app/.env.test.local
+/mern-task-tracker-app/.env.production.local
+
+/mern-task-tracker-app/npm-debug.log*
+/mern-task-tracker-app/yarn-debug.log*
+/mern-task-tracker-app/yarn-error.log*
+
+/node_modules
